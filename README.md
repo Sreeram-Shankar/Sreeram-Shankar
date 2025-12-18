@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Im Sreeram Shankar, a high school programme and researcher in numerical analysis
 
 <!--
 **Sreeram-Shankar/Sreeram-Shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
