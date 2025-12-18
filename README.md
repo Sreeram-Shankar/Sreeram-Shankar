@@ -1,5 +1,5 @@
 ## Hi, Im Sreeram Shankar, a high school programmer and researcher of numerical analysis and computational mechanics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeram-Shankar&layout=donut&theme=transparent)](https://github.com/Sreeram-Shankar/github-readme-stats&layout=donut&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeram-Shankar&layout=donut&theme=transparent&langs_count=10)](https://github.com/Sreeram-Shankar/github-readme-stats&layout=donut&theme=transparent&langs_count=10)
 <!--
 **Sreeram-Shankar/Sreeram-Shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
