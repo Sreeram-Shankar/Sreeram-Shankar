@@ -1,4 +1,4 @@
-## Hi, Im Sreeram Shankar, a high school programme and researcher in numerical analysis
+## Hi, Im Sreeram Shankar, a high school programmer and researcher of numerical analysis and computational mechanics
 
 <!--
 **Sreeram-Shankar/Sreeram-Shankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
